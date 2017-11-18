@@ -1,5 +1,6 @@
 # logstash-forwarder-java
 
+_对于如Aix，HP-UX之类的系统，可能不支持GO，JRuby等，需要合适的工具将其中日志（尤其是文件日志）传输到logstash系统_
 ## What is this ?
 
 Logstash-forwarder-java is a log shipper program written in java. This is in fact a java version of [logstash-forwarder](https://github.com/elasticsearch/logstash-forwarder) by jordansissel.
